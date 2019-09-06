@@ -1,2 +1,2 @@
-# java-programs
-Programs and Assignments
+# Java Assignments
+Assignments from Revature Training Program
